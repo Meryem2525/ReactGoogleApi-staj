@@ -16,8 +16,8 @@ const Header = () => {
     <Link  className='link' to="/iletisim">İletişim</Link>
     <div className="">
       <input type="text"  />
-      <button > <Link to="/changedil"> Türkçe</Link></button>
-      <button> <Link to="/changedil"> English</Link></button>
+      <button > Türkçe</button>
+      <button> English</button>
     </div>
     </div>
    
