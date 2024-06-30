@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: "Poppins",sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    min-height: 100vh;
+    /* background: url('./images/14526991-the-storm-sky-before-a-rain.jpg') no-repeat; */
+    background: rgba(203, 199, 199, 0.765);
+    background-size: cover;
+    background-position: center;
+
+}
